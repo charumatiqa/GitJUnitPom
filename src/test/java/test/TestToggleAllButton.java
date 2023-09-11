@@ -52,9 +52,9 @@ public void testcase3() {
 
 
 
-//@After
-//public void tearDown() {
-//	BrowserFactory.tearDown();
-//}
+@After
+public void tearDown() {
+	BrowserFactory.tearDown();
+}
 
 }
